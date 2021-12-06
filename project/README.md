@@ -35,7 +35,11 @@ The DApp User Interface when running should look like...
 If you want to see the deployed contract in the Rinkeby test network, you can use the address
 
 ```
+# Contract Address
 0x2484BC04298FC555e15eb87f9cfBaAeFD6676B49
+
+# Transaction ID
+0x141a7f5f953eb0b355f66dcdbcf897583c38ea50c57e821dd965171a6b7ec05a
 ```
 
 Or go to its [etherscan url](https://rinkeby.etherscan.io/address/0x2484BC04298FC555e15eb87f9cfBaAeFD6676B49#events).
