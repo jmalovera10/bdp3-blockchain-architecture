@@ -54,7 +54,7 @@ export NODE_OPTIONS=--openssl-legacy-provider
 
 ### Installing
 
-> This code is written for **Solidity v0.8.0**. To use this code, please run `npm i -g truffle@5.4.21` to install Truffle. This code also uses `truffle-assertions` library to manage event listening for Solidity v0.8.0, which makes it easier to declare and manage.
+> This code is written for **Solidity v0.8.0**. To use this code, please run `npm i -g truffle@5.4.21` to install Truffle. This code also uses `truffle-assertions` library to manage event listening for Solidity v0.8.0, which makes it easier to declare and manage. This project was also modified to use the Truffle boilerplate for webpack in order for those versions of solidity and truffle to work smoothly.
 
 A step by step series of examples that tell you have to get a development env running
 
